@@ -21,9 +21,10 @@ Tool for viewing your profile with pictures.
 ### Start project locally:
 
 1. Download/clone the project
-2. Go to the project root with `cd user-profile` command
+2. Go to the project root with `cd organization-structure` command
 3. Run `npm install`
 4. Create `.env.local` file from `.env.local.example`
+5. Build the project with `npm run build` 
 5. Start the project using `npm run start` command (or `npm run dev` to run in dev mode)
 
 Project starts on `http://localhost:3000`
